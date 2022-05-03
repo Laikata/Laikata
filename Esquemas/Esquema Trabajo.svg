@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Esquema Trabajo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.7198092"
+     inkscape:cx="570.98464"
+     inkscape:cy="361.20683"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g679" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="185.47292"
+       height="185.47292"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="data:image/png;base64,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 "
+       id="image41"
+       x="-148.33496"
+       y="-189.78111" />
+    <g
+       id="g116260"
+       transform="translate(18.048736,66.173652)" />
+    <g
+       id="g679">
+      <g
+         id="g55888"
+         inkscape:export-filename="C:\Users\Bot\Documents\Pepe\Laikata\Laikata\Esquemas\Esquema Trabajo Foto.png"
+         inkscape:export-xdpi="219.29002"
+         inkscape:export-ydpi="219.29002">
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.433;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect31"
+           width="37.126324"
+           height="24.88797"
+           x="217.76215"
+           y="-16.12459" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="227.71892"
+           y="-2.5578513"
+           id="text3435"><tspan
+             sodipodi:role="line"
+             id="tspan3433"
+             style="stroke-width:0.129799"
+             x="227.71892"
+             y="-2.5578513">Laikata</tspan></text>
+        <g
+           id="g114230">
+          <rect
+             style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.433;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect6441"
+             width="37.126324"
+             height="24.88797"
+             x="71.253883"
+             y="35.446167" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+             x="89.427032"
+             y="44.634747"
+             id="text6445"><tspan
+               sodipodi:role="line"
+               id="tspan6443"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="89.427032"
+               y="44.634747">Departamento</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="89.427032"
+               y="49.047913"
+               id="tspan47453">de Diseño </tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="89.427032"
+               y="53.461079"
+               id="tspan48697">Electrónico</tspan></text>
+        </g>
+        <g
+           id="g114237"
+           transform="translate(56.580338,-36.052798)">
+          <rect
+             style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.433;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect16153"
+             width="37.126324"
+             height="24.88797"
+             x="71.253883"
+             y="71.007538" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+             x="90.676659"
+             y="80.530754"
+             id="text16157"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="90.676659"
+               y="80.530754"
+               id="tspan106627">Departamento de</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="90.676659"
+               y="84.943916"
+               id="tspan106631">Comunicaciones</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="90.676659"
+               y="89.357086"
+               id="tspan84671">y Radio</tspan></text>
+        </g>
+        <g
+           id="g114244"
+           transform="translate(176.09401,-75.366881)">
+          <rect
+             style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.433;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect16159"
+             width="37.126324"
+             height="24.88797"
+             x="71.253883"
+             y="110.32162" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+             x="89.073792"
+             y="119.59211"
+             id="text16163"><tspan
+               sodipodi:role="line"
+               id="tspan16161"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="89.073792"
+               y="119.59211">Departamento</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="89.073792"
+               y="124.00527"
+               id="tspan88117">de Software y</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="89.073792"
+               y="128.41844"
+               id="tspan89313">Programación</tspan></text>
+        </g>
+        <g
+           id="g114250"
+           transform="translate(235.07397,-111.82175)">
+          <rect
+             style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.433;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect16165"
+             width="37.126324"
+             height="24.88797"
+             x="71.253883"
+             y="146.77649" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+             x="89.892303"
+             y="158.32146"
+             id="text16169"><tspan
+               sodipodi:role="line"
+               id="tspan16167"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="89.892303"
+               y="158.32146">Departamento</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="89.892303"
+               y="162.73462"
+               id="tspan109257">de Diseño Estructural</tspan></text>
+        </g>
+        <g
+           id="g114256"
+           transform="translate(115.94669,-146.48963)">
+          <rect
+             style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.433;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect16171"
+             width="37.126324"
+             height="24.88797"
+             x="71.253883"
+             y="181.44437" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+             x="89.912865"
+             y="192.4839"
+             id="text16175"><tspan
+               sodipodi:role="line"
+               id="tspan16173"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="89.912865"
+               y="192.4839">Departamento</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="89.912865"
+               y="196.89706"
+               id="tspan93403">de Pruebas y Testeos</tspan></text>
+        </g>
+        <g
+           id="g114265"
+           transform="translate(290.99126,-183.6593)">
+          <rect
+             style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.433;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect16177"
+             width="37.126324"
+             height="24.88797"
+             x="71.253883"
+             y="218.61404" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+             x="90.730286"
+             y="226.11549"
+             id="text16181"><tspan
+               sodipodi:role="line"
+               id="tspan16179"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="90.730286"
+               y="226.11549">Departamento de </tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="90.730286"
+               y="230.52866"
+               id="tspan110467">Redes Sociales, </tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="90.730286"
+               y="234.94182"
+               id="tspan110469">Marketing y</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="90.730286"
+               y="239.355"
+               id="tspan113153">Financiación</tspan><tspan
+               sodipodi:role="line"
+               style="text-align:center;text-anchor:middle;stroke-width:0.129799"
+               x="90.730286"
+               y="243.76816"
+               id="tspan36217" /></text>
+        </g>
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.365015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect114267"
+           width="36.057064"
+           height="18.210773"
+           x="88.510475"
+           y="73.499718" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="106.78078"
+           y="81.308273"
+           id="text114275"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="106.78078"
+             y="81.308273"
+             id="tspan116789">Ensamblado de </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="106.78078"
+             y="85.721436"
+             id="tspan116793">componentes</tspan></text>
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.365015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect117739"
+           width="36.057064"
+           height="18.210773"
+           x="88.510475"
+           y="100.03537" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="106.78078"
+           y="107.84393"
+           id="text117745"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="106.78078"
+             y="107.84393"
+             id="tspan117743">Diseño de las placas</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="106.78078"
+             y="112.2571"
+             id="tspan118065">para componentes</tspan></text>
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.365015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect134847"
+           width="36.057064"
+           height="18.210773"
+           x="88.510475"
+           y="126.30432" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="106.78078"
+           y="131.58568"
+           id="text134853"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="106.78078"
+             y="131.58568"
+             id="tspan134851">Conexión de todos</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="106.78078"
+             y="135.99884"
+             id="tspan135041">los sistemas de la</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="106.78078"
+             y="140.412"
+             id="tspan135043">lata</tspan></text>
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.365015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect143795"
+           width="36.057064"
+           height="18.210773"
+           x="205.61693"
+           y="73.499718" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="223.88722"
+           y="81.308273"
+           id="text143801"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="223.88722"
+             y="81.308273"
+             id="tspan143799">Planificar las pruebas</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="223.88722"
+             y="85.721436"
+             id="tspan145307">pertinentes</tspan></text>
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.365015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect143803"
+           width="36.057064"
+           height="18.210773"
+           x="205.61693"
+           y="100.03537" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="223.88722"
+           y="105.23483"
+           id="text143813"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="223.88722"
+             y="105.23483"
+             id="tspan143811">Verificar el</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="223.88722"
+             y="109.64799"
+             id="tspan146962">cumplimiento de los</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="223.88722"
+             y="114.06116"
+             id="tspan146966">requisitos requeridos</tspan></text>
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.365015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect143815"
+           width="36.057064"
+           height="18.210773"
+           x="205.61693"
+           y="126.57101" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="223.88722"
+           y="129.88667"
+           id="text143823"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="223.88722"
+             y="129.88667"
+             id="tspan151432">Gestión de los</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="223.88722"
+             y="134.29984"
+             id="tspan161369">medios requeridos</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="223.88722"
+             y="138.713"
+             id="tspan161371">para realizar las </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="223.88722"
+             y="143.12617"
+             id="tspan161373">pruebas</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.45395;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 88.635379,23.945848 H 381.76147"
+           id="path172307" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 88.635379,23.945848 V 35.47202"
+           id="path172619" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 146.55597,34.846569 V 23.767148"
+           id="path172621" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 205.84209,35.001784 V 23.629364"
+           id="path172623" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 265.61597,34.935919 V 23.588447"
+           id="path172625" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 326.15824,34.935919 V 23.499097"
+           id="path172627" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 381.76147,23.945848 V 34.935919"
+           id="path172629" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 79.164258,60.222021 V 136.70577"
+           id="path172631" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 79.164256,136.70577 h 9.477449"
+           id="path172633" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 79.164687,108.16436 h 9.287478"
+           id="path172635" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 88.578525,81.881434 H 79.227867"
+           id="path172637" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 136.46969,59.768393 V 161.55156 h 12.3833"
+           id="path172639" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 148.78981,135.14227 H 136.34333"
+           id="path172641" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 148.66345,108.79616 H 136.46969"
+           id="path172643" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 148.78972,81.219314 H 136.43706"
+           id="path173035" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 195.35419,59.894752 V 135.96361"
+           id="path173037" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 195.35419,135.96361 h 10.23518"
+           id="path173039" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 205.65255,109.17524 H 195.41737"
+           id="path173041" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 205.71573,82.450053 H 195.16465"
+           id="path173043" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 256.32356,59.685919 v 50.393501 h 14.11732"
+           id="path173045" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 270.44088,83.274367 H 256.27887"
+           id="path173047" />
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.365015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect152444"
+           width="36.057064"
+           height="18.210773"
+           x="266.94153"
+           y="73.499718" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="285.21182"
+           y="81.308273"
+           id="text152450"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="285.21182"
+             y="81.308273"
+             id="tspan152448">Desarrollar el</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="285.21182"
+             y="85.721436"
+             id="tspan152736">software</tspan></text>
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.365015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect152452"
+           width="36.057064"
+           height="18.210773"
+           x="266.94153"
+           y="100.03537" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="285.21182"
+           y="106.75115"
+           id="text152460"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="285.21182"
+             y="106.75115"
+             id="tspan152458">Seleccionar el IDE</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="285.21182"
+             y="111.16431"
+             id="tspan153835">a utilizar</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 315.2596,59.768393 v 50.291367 h 19.45947"
+           id="path173162" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 336.48812,82.260513 h -21.2917"
+           id="path173164" />
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.365015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect156064"
+           width="36.057064"
+           height="18.210773"
+           x="323.64172"
+           y="73.499718" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="341.91202"
+           y="81.308273"
+           id="text156070"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="341.91202"
+             y="81.308273"
+             id="tspan156068">Diseñar la estructura</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="341.91202"
+             y="85.721436"
+             id="tspan156300">del Laikata</tspan></text>
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.365015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect156072"
+           width="36.057064"
+           height="18.210773"
+           x="323.64172"
+           y="100.03537" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="341.91202"
+           y="106.49843"
+           id="text156078"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="341.91202"
+             y="106.49843"
+             id="tspan156076">Construcción del</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="341.91202"
+             y="110.91159"
+             id="tspan157090">Laikata</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 372.64776,60.043321 v 75.590249 h 24.66065"
+           id="path173279" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 397.96908,108.79616 H 372.63385"
+           id="path173281" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 397.08455,82.386873 H 372.62541"
+           id="path173283" />
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.365015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect165259"
+           width="36.057064"
+           height="18.210773"
+           x="382.28287"
+           y="73.499718" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="400.55316"
+           y="81.308273"
+           id="text165265"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="400.55316"
+             y="81.308273"
+             id="tspan165263">Gestionar las redes</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="400.55316"
+             y="85.721436"
+             id="tspan165591">sociales de Laikata</tspan></text>
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.365015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect165267"
+           width="36.057064"
+           height="18.210773"
+           x="382.28287"
+           y="100.03537" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="400.55316"
+           y="105.07409"
+           id="text165273"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="400.55316"
+             y="105.07409"
+             id="tspan165271">Encontrar</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="400.55316"
+             y="109.48725"
+             id="tspan166399"
+             dy="0 0 0 0 0 0 0 0 0 0 0 -0.0099999998">financiación</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="400.55316"
+             y="113.90042"
+             id="tspan166401">y patrocinio</tspan></text>
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.365015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect165275"
+           width="36.057064"
+           height="18.210773"
+           x="382.28287"
+           y="126.57101" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="400.55316"
+           y="133.86702"
+           id="text165283"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="400.55316"
+             y="133.86702"
+             id="tspan165281">Promocionar las</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="400.55316"
+             y="138.28018"
+             id="tspan168228">el proyecto</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.258398px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 234.6631,24.064365 c 0,-1.015355 0,-15.3572377 0,-15.3572377"
+           id="path173496" />
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.365015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect119203"
+           width="36.057064"
+           height="18.210773"
+           x="147.23785"
+           y="73.499718" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="165.50815"
+           y="81.308273"
+           id="text119209"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="165.50815"
+             y="81.308273"
+             id="tspan119207">Construcción de las</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="165.50815"
+             y="85.721436"
+             id="tspan119453">antenas</tspan></text>
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.365015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect119211"
+           width="36.057064"
+           height="18.210773"
+           x="147.23785"
+           y="100.03537" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="165.50815"
+           y="103.46578"
+           id="text119217"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="165.50815"
+             y="103.46578"
+             id="tspan119215">Creación de</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="165.50815"
+             y="107.87894"
+             id="tspan129699">protocolos </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="165.50815"
+             y="112.29211"
+             id="tspan133691">y empaquetado </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="165.50815"
+             y="116.70528"
+             id="tspan134505">de datos</tspan></text>
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.365015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect134827"
+           width="36.057064"
+           height="18.210773"
+           x="147.23785"
+           y="126.57101" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="165.50815"
+           y="132.41388"
+           id="text134833"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="165.50815"
+             y="132.41388"
+             id="tspan134831">Gestión de las</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="165.50815"
+             y="136.82704"
+             id="tspan143339">comunicaciones</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="165.50815"
+             y="141.2402"
+             id="tspan143581">internas</tspan></text>
+        <rect
+           style="fill:#e8eef7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.365015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect134835"
+           width="36.057064"
+           height="18.210773"
+           x="147.23785"
+           y="153.10667" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.19196px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129799"
+           x="165.50815"
+           y="156.53708"
+           id="text134845"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="165.50815"
+             y="156.53708"
+             id="tspan134837">Creación de</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="165.50815"
+             y="160.95024"
+             id="tspan134839">protocolos </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="165.50815"
+             y="165.3634"
+             id="tspan134841">y empaquetado </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.129799"
+             x="165.50815"
+             y="169.77658"
+             id="tspan134843">de datos</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
